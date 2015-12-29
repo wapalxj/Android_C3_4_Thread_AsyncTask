@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/C3_4_Thread_AsyncTask.iml" filepath="$PROJECT_DIR$/C3_4_Thread_AsyncTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c3_4_01_ui/c3_4_01_ui.iml" filepath="$PROJECT_DIR$/c3_4_01_ui/c3_4_01_ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c3_4_02_demo01/c3_4_02_demo01.iml" filepath="$PROJECT_DIR$/c3_4_02_demo01/c3_4_02_demo01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c3_4_03_demo02_download/c3_4_03_demo02_download.iml" filepath="$PROJECT_DIR$/c3_4_03_demo02_download/c3_4_03_demo02_download.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c3_4_04_handler_deep/c3_4_04_handler_deep.iml" filepath="$PROJECT_DIR$/c3_4_04_handler_deep/c3_4_04_handler_deep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c3_4_05_demo_lizhi_diantai/c3_4_05_demo_lizhi_diantai.iml" filepath="$PROJECT_DIR$/c3_4_05_demo_lizhi_diantai/c3_4_05_demo_lizhi_diantai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c3_4_06_lizhi_post/c3_4_06_lizhi_post.iml" filepath="$PROJECT_DIR$/c3_4_06_lizhi_post/c3_4_06_lizhi_post.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c3_5_01_web/c3_5_01_web.iml" filepath="$PROJECT_DIR$/c3_5_01_web/c3_5_01_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c3_5_02_web_listview/c3_5_02_web_listview.iml" filepath="$PROJECT_DIR$/c3_5_02_web_listview/c3_5_02_web_listview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c3_5_03_web_imageview/c3_5_03_web_imageview.iml" filepath="$PROJECT_DIR$/c3_5_03_web_imageview/c3_5_03_web_imageview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c3_5_04_2_web_upload/c3_5_04_2_web_upload.iml" filepath="$PROJECT_DIR$/c3_5_04_2_web_upload/c3_5_04_2_web_upload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c3_5_04_web_upload/c3_5_04_web_upload.iml" filepath="$PROJECT_DIR$/c3_5_04_web_upload/c3_5_04_web_upload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c3_5_05_web_download/c3_5_05_web_download.iml" filepath="$PROJECT_DIR$/c3_5_05_web_download/c3_5_05_web_download.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c3_5_06_xml/c3_5_06_xml.iml" filepath="$PROJECT_DIR$/c3_5_06_xml/c3_5_06_xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c3_5_07_coursetable/c3_5_07_coursetable.iml" filepath="$PROJECT_DIR$/c3_5_07_coursetable/c3_5_07_coursetable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jwc_easy/jwc_easy.iml" filepath="$PROJECT_DIR$/jwc_easy/jwc_easy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+    </modules>
+  </component>
+</project>

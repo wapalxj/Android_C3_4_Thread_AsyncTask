@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="C:\Program Files\Android\Android Studio\gradle\gradle-2.4" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/c3_4_01_ui" />
+            <option value="$PROJECT_DIR$/c3_4_02_demo01" />
+            <option value="$PROJECT_DIR$/c3_4_03_demo02_download" />
+            <option value="$PROJECT_DIR$/c3_4_04_handler_deep" />
+            <option value="$PROJECT_DIR$/c3_4_05_demo_lizhi_diantai" />
+            <option value="$PROJECT_DIR$/c3_4_06_lizhi_post" />
+            <option value="$PROJECT_DIR$/c3_5_01_web" />
+            <option value="$PROJECT_DIR$/c3_5_02_web_listview" />
+            <option value="$PROJECT_DIR$/c3_5_03_web_imageview" />
+            <option value="$PROJECT_DIR$/c3_5_04_2_web_upload" />
+            <option value="$PROJECT_DIR$/c3_5_04_web_upload" />
+            <option value="$PROJECT_DIR$/c3_5_05_web_download" />
+            <option value="$PROJECT_DIR$/c3_5_06_xml" />
+            <option value="$PROJECT_DIR$/c3_5_07_coursetable" />
+            <option value="$PROJECT_DIR$/jwc_easy" />
+            <option value="$PROJECT_DIR$/test" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

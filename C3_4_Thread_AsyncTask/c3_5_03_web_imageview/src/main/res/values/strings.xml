@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">c3_5_03_web_imageview</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="imageview">no image</string>
+</resources>

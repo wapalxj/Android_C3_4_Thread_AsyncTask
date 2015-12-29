@@ -1,0 +1,2 @@
+include ':app', ':c3_4_01_ui', ':c3_4_02_demo01', ':c3_4_03_demo02_download', ':c3_4_04_handler_deep', ':c3_4_05_demo_lizhi_diantai', ':c3_4_06_lizhi_post', ':c3_5_01_web', ':test', ':c3_5_02_web_listview', ':c3_5_03_web_imageview', ':c3_5_04_web_upload', ':c3_5_05_web_download', ':c3_5_06_xml', ':c3_5_04_2_web_upload', ':c3_5_07_coursetable'
+include ':app','jwc_easy'
