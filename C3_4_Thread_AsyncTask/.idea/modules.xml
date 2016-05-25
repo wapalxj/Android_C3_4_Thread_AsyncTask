@@ -18,7 +18,18 @@
       <module fileurl="file://$PROJECT_DIR$/c3_5_05_web_download/c3_5_05_web_download.iml" filepath="$PROJECT_DIR$/c3_5_05_web_download/c3_5_05_web_download.iml" />
       <module fileurl="file://$PROJECT_DIR$/c3_5_06_xml/c3_5_06_xml.iml" filepath="$PROJECT_DIR$/c3_5_06_xml/c3_5_06_xml.iml" />
       <module fileurl="file://$PROJECT_DIR$/c3_5_07_coursetable/c3_5_07_coursetable.iml" filepath="$PROJECT_DIR$/c3_5_07_coursetable/c3_5_07_coursetable.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jwc_easy/jwc_easy.iml" filepath="$PROJECT_DIR$/jwc_easy/jwc_easy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c4_hm_01_web/c4_hm_01_web.iml" filepath="$PROJECT_DIR$/c4_hm_01_web/c4_hm_01_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c4_hm_02_json/c4_hm_02_json.iml" filepath="$PROJECT_DIR$/c4_hm_02_json/c4_hm_02_json.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c4_hm_03_xml/c4_hm_03_xml.iml" filepath="$PROJECT_DIR$/c4_hm_03_xml/c4_hm_03_xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c4_hm_04_news/c4_hm_04_news.iml" filepath="$PROJECT_DIR$/c4_hm_04_news/c4_hm_04_news.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c4_hm_05_mysmartimageview/c4_hm_05_mysmartimageview.iml" filepath="$PROJECT_DIR$/c4_hm_05_mysmartimageview/c4_hm_05_mysmartimageview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c4_hm_06_logindemo/c4_hm_06_logindemo.iml" filepath="$PROJECT_DIR$/c4_hm_06_logindemo/c4_hm_06_logindemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c4_hm_07_login_post/c4_hm_07_login_post.iml" filepath="$PROJECT_DIR$/c4_hm_07_login_post/c4_hm_07_login_post.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c4_hm_08_apache_get/c4_hm_08_apache_get.iml" filepath="$PROJECT_DIR$/c4_hm_08_apache_get/c4_hm_08_apache_get.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c4_hm_08_apache_post/c4_hm_08_apache_post.iml" filepath="$PROJECT_DIR$/c4_hm_08_apache_post/c4_hm_08_apache_post.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c4_hm_09_async_http_client/c4_hm_09_async_http_client.iml" filepath="$PROJECT_DIR$/c4_hm_09_async_http_client/c4_hm_09_async_http_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c4_hm_10_multithread_download/c4_hm_10_multithread_download.iml" filepath="$PROJECT_DIR$/c4_hm_10_multithread_download/c4_hm_10_multithread_download.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c4_hm_10_xutils/c4_hm_10_xutils.iml" filepath="$PROJECT_DIR$/c4_hm_10_xutils/c4_hm_10_xutils.iml" />
       <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
     </modules>
   </component>

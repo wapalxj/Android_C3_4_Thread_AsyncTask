@@ -56,7 +56,8 @@ public class UserServiceImp implements UserService {
             }
             //文件参数
             sb.append(PREFIX);//开始拼接文件参数
-            sb.append(BOUNDARY); sb.append(LINE_END);
+            sb.append(BOUNDARY);
+            sb.append(LINE_END);
             sb.append("Content-Disposition: form-data; name=img; filename=" + file.getName() + LINE_END);
             sb.append("Content-Type: application/octet-stream; charset=UTF-8" + LINE_END);
             sb.append(LINE_END);
@@ -83,18 +84,20 @@ public class UserServiceImp implements UserService {
 
         }
 
+        String result;
+        int code=connection.getResponseCode();
+        if(code==200){
+            InputStream is=connection.getInputStream();
+            BufferedReader reader=new BufferedReader(new InputStreamReader(is));
+            result=reader.readLine();
+            reader.close();
+            is.close();
+            connection.disconnect();
+        }else {
+            result="服务器连接失败！";
+        }
+        return result;
 
-
-
-
-
-        InputStream is=connection.getInputStream();
-        BufferedReader reader=new BufferedReader(new InputStreamReader(is));
-        String re=reader.readLine();
-        reader.close();
-        is.close();
-        connection.disconnect();
-        return re;
     }
 }
 

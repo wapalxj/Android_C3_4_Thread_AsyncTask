@@ -66,7 +66,6 @@ public class MainActivity extends AppCompatActivity {
                         path=cursor.getString(columnIndex);
                         cursor.close();
                     }
-
                     if (path==null){
                         Toast.makeText(this, "图片物理路径获取失败", Toast.LENGTH_SHORT).show();
                     }else {

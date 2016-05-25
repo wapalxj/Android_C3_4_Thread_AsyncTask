@@ -23,7 +23,18 @@
             <option value="$PROJECT_DIR$/c3_5_05_web_download" />
             <option value="$PROJECT_DIR$/c3_5_06_xml" />
             <option value="$PROJECT_DIR$/c3_5_07_coursetable" />
-            <option value="$PROJECT_DIR$/jwc_easy" />
+            <option value="$PROJECT_DIR$/c4_hm_01_web" />
+            <option value="$PROJECT_DIR$/c4_hm_02_json" />
+            <option value="$PROJECT_DIR$/c4_hm_03_xml" />
+            <option value="$PROJECT_DIR$/c4_hm_04_news" />
+            <option value="$PROJECT_DIR$/c4_hm_05_mysmartimageview" />
+            <option value="$PROJECT_DIR$/c4_hm_06_logindemo" />
+            <option value="$PROJECT_DIR$/c4_hm_07_login_post" />
+            <option value="$PROJECT_DIR$/c4_hm_08_apache_get" />
+            <option value="$PROJECT_DIR$/c4_hm_08_apache_post" />
+            <option value="$PROJECT_DIR$/c4_hm_09_async_http_client" />
+            <option value="$PROJECT_DIR$/c4_hm_10_multithread_download" />
+            <option value="$PROJECT_DIR$/c4_hm_10_xutils" />
             <option value="$PROJECT_DIR$/test" />
           </set>
         </option>
@@ -45,7 +56,18 @@
             <option value="$PROJECT_DIR$/c3_5_05_web_download" />
             <option value="$PROJECT_DIR$/c3_5_06_xml" />
             <option value="$PROJECT_DIR$/c3_5_07_coursetable" />
-            <option value="$PROJECT_DIR$/jwc_easy" />
+            <option value="$PROJECT_DIR$/c4_hm_01_web" />
+            <option value="$PROJECT_DIR$/c4_hm_02_json" />
+            <option value="$PROJECT_DIR$/c4_hm_03_xml" />
+            <option value="$PROJECT_DIR$/c4_hm_04_news" />
+            <option value="$PROJECT_DIR$/c4_hm_05_mysmartimageview" />
+            <option value="$PROJECT_DIR$/c4_hm_06_logindemo" />
+            <option value="$PROJECT_DIR$/c4_hm_07_login_post" />
+            <option value="$PROJECT_DIR$/c4_hm_08_apache_get" />
+            <option value="$PROJECT_DIR$/c4_hm_08_apache_post" />
+            <option value="$PROJECT_DIR$/c4_hm_09_async_http_client" />
+            <option value="$PROJECT_DIR$/c4_hm_10_multithread_download" />
+            <option value="$PROJECT_DIR$/c4_hm_10_xutils" />
             <option value="$PROJECT_DIR$/test" />
           </set>
         </option>

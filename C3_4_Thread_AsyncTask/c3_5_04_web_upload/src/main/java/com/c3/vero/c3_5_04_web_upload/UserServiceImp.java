@@ -34,7 +34,7 @@ public class UserServiceImp implements UserService {
         connection.setUseCaches(false);
         connection.connect();
 
-        //httpmine
+        //httpmine框架
         //普通数据封装
         MultipartEntity entity=new MultipartEntity();
         for (Map.Entry<String,String>entry:data.entrySet()){
@@ -50,8 +50,7 @@ public class UserServiceImp implements UserService {
         byte [] d =entity.toString().getBytes();
         os.write(d);
         //end
-        byte [ ] end_data = ( PREFIX + BOUNDARY + PREFIX + LINEND )
-                .getBytes ( ) ;
+        byte [] end_data = ( PREFIX + BOUNDARY + PREFIX + LINEND ).getBytes () ;
         os.write ( end_data ) ;
 
         os.flush();
