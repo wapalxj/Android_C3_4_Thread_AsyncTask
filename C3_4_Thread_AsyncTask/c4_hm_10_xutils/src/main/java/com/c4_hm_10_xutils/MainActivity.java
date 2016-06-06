@@ -13,12 +13,16 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 
+import com.lidroid.xutils.HttpUtils;
+import com.lidroid.xutils.exception.HttpException;
+import com.lidroid.xutils.http.ResponseInfo;
+import com.lidroid.xutils.http.callback.RequestCallBack;
 
 import org.xutils.common.Callback;
 import org.xutils.http.RequestParams;
 import org.xutils.x;
 
-
+import java.io.File;
 
 
 public class MainActivity extends AppCompatActivity {
@@ -42,33 +46,33 @@ public class MainActivity extends AppCompatActivity {
         et_path.getText().toString().trim();
 
         //XUtils2
-//        HttpUtils utils=new HttpUtils();
-//        utils.download(path,
-//                Environment.getExternalStorageDirectory().getAbsolutePath()+"/"+"vero.exe",
-//                true,//自动断点续传
-//                new RequestCallBack<File>() {
-//                    @Override
-//                    public void onStart() {
-//                        System.out.println("下载开始");
-//                    }
-//
-//                    @Override
-//                    public void onLoading(long total, long current, boolean isUploading) {
-//                        System.out.println("下载进行中");
-//                    }
-//
-//                    @Override
-//                    public void onSuccess(ResponseInfo<File> responseInfo) {
-//                        System.out.println("下载成功");
-//                    }
-//
-//                    @Override
-//                    public void onFailure(HttpException error, String msg) {
-//                        System.out.println("下载失败");
-//                    }
-//                }
-//
-//        );
+        HttpUtils utils=new HttpUtils();
+        utils.download(path,
+                Environment.getExternalStorageDirectory().getAbsolutePath()+"/"+"vero.exe",
+                true,//自动断点续传
+                new RequestCallBack<File>() {
+                    @Override
+                    public void onStart() {
+                        System.out.println("下载开始");
+                    }
+
+                    @Override
+                    public void onLoading(long total, long current, boolean isUploading) {
+                        System.out.println("下载进行中");
+                    }
+
+                    @Override
+                    public void onSuccess(ResponseInfo<File> responseInfo) {
+                        System.out.println("下载成功");
+                    }
+
+                    @Override
+                    public void onFailure(HttpException error, String msg) {
+                        System.out.println("下载失败");
+                    }
+                }
+
+        );
 
         //XUtils3
 //        RequestParams params = new RequestParams(path);

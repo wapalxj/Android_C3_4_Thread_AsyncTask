@@ -29,9 +29,9 @@ public class MainActivity extends AppCompatActivity {
             try {
                 URL url=new URL(params[0]);
                 HttpURLConnection connection=(HttpURLConnection)url.openConnection();
+                connection.setRequestMethod("GET");
                 connection.setRequestProperty("Accept-Encoding", "identity");//这行必须有，不然进度条不会动
                 long length=connection.getContentLength();
-                connection.setRequestMethod("GET");
                 InputStream is=connection.getInputStream();
                 int perLength=0;
                 String result=null;
@@ -52,7 +52,6 @@ public class MainActivity extends AppCompatActivity {
                     result=new String(bos.toByteArray());
                 }
                 return result;
-
             } catch (MalformedURLException e) {
                 e.printStackTrace();
             } catch (IOException e) {

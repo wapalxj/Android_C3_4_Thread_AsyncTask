@@ -7,6 +7,8 @@ The following files were *not* copied into the new Gradle project; you
 should evaluate whether these are still needed in your project and if
 so manually move them:
 
+* .gitignore
+* README.md
 * ic_launcher-web.png
 * proguard-project.txt
 
@@ -27,12 +29,11 @@ Moved Files:
 Android Gradle projects use a different directory structure than ADT
 Eclipse projects. Here's how the projects were restructured:
 
-* AndroidManifest.xml => jwc_easy\src\main\AndroidManifest.xml
-* assets\ => jwc_easy\src\main\assets\
-* res\ => jwc_easy\src\main\res\
-* src\ => jwc_easy\src\main\java\
-* src\org\jsoup\nodes\entities-base.properties => jwc_easy\src\main\resources\org\jsoup\nodes\entities-base.properties
-* src\org\jsoup\nodes\entities-full.properties => jwc_easy\src\main\resources\org\jsoup\nodes\entities-full.properties
+* AndroidManifest.xml => C4_hm_13_volley_demo\src\main\AndroidManifest.xml
+* assets\ => C4_hm_13_volley_demo\src\main\assets
+* libs\volley.jar => C4_hm_13_volley_demo\libs\volley.jar
+* res\ => C4_hm_13_volley_demo\src\main\res\
+* src\ => C4_hm_13_volley_demo\src\main\java\
 
 Missing Android Support Repository:
 -----------------------------------

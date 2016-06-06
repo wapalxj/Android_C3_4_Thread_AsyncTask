@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="vero.com.c4_hm_15_gzip.MainActivity">
+
+    <Button
+        android:id="@+id/btn_initGZIP"
+        android:textAllCaps="false"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="btn_initGZIP" />
+
+    <Button
+        android:id="@+id/btn_post_key_value"
+        android:textAllCaps="false"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="btn_post_kv" />
+    <Button
+        android:id="@+id/btn_post_json"
+        android:textAllCaps="false"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="btn_post_json" />
+
+    <Button
+        android:id="@+id/btn_post_file"
+        android:textAllCaps="false"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="btn_post_file" />
+</LinearLayout>

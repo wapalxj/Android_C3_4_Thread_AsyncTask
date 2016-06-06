@@ -35,6 +35,17 @@
             <option value="$PROJECT_DIR$/c4_hm_09_async_http_client" />
             <option value="$PROJECT_DIR$/c4_hm_10_multithread_download" />
             <option value="$PROJECT_DIR$/c4_hm_10_xutils" />
+            <option value="$PROJECT_DIR$/c4_hm_11_okhttp" />
+            <option value="$PROJECT_DIR$/c4_hm_12_volley" />
+            <option value="$PROJECT_DIR$/c4_hm_13_volley_demo" />
+            <option value="$PROJECT_DIR$/c4_hm_14_mvp" />
+            <option value="$PROJECT_DIR$/c4_hm_15_gzip" />
+            <option value="$PROJECT_DIR$/c4_hm_16_asyncTask" />
+            <option value="$PROJECT_DIR$/c4_mz_12_socket" />
+            <option value="$PROJECT_DIR$/c4_mz_12_socket2" />
+            <option value="$PROJECT_DIR$/c4_mz_13_socket3" />
+            <option value="$PROJECT_DIR$/c4_mz_14_socket4_client" />
+            <option value="$PROJECT_DIR$/c4_mz_14_socket4_server" />
             <option value="$PROJECT_DIR$/test" />
           </set>
         </option>
@@ -68,6 +79,17 @@
             <option value="$PROJECT_DIR$/c4_hm_09_async_http_client" />
             <option value="$PROJECT_DIR$/c4_hm_10_multithread_download" />
             <option value="$PROJECT_DIR$/c4_hm_10_xutils" />
+            <option value="$PROJECT_DIR$/c4_hm_11_okhttp" />
+            <option value="$PROJECT_DIR$/c4_hm_12_volley" />
+            <option value="$PROJECT_DIR$/c4_hm_13_volley_demo" />
+            <option value="$PROJECT_DIR$/c4_hm_14_mvp" />
+            <option value="$PROJECT_DIR$/c4_hm_15_gzip" />
+            <option value="$PROJECT_DIR$/c4_hm_16_asyncTask" />
+            <option value="$PROJECT_DIR$/c4_mz_12_socket" />
+            <option value="$PROJECT_DIR$/c4_mz_12_socket2" />
+            <option value="$PROJECT_DIR$/c4_mz_13_socket3" />
+            <option value="$PROJECT_DIR$/c4_mz_14_socket4_client" />
+            <option value="$PROJECT_DIR$/c4_mz_14_socket4_server" />
             <option value="$PROJECT_DIR$/test" />
           </set>
         </option>
