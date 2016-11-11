@@ -17,7 +17,11 @@ import android.widget.Toast;
 import org.apache.http.HttpResponse;
 import org.apache.http.client.HttpClient;
 import org.apache.http.client.methods.HttpGet;
+import org.apache.http.client.params.HttpClientParams;
 import org.apache.http.impl.client.DefaultHttpClient;
+import org.apache.http.params.BasicHttpParams;
+import org.apache.http.params.HttpConnectionParams;
+import org.apache.http.params.HttpParams;
 
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
@@ -78,6 +82,14 @@ public class MainActivity extends AppCompatActivity {
                     String newPath = path+"number="+ URLEncoder.encode(number,"UTF-8")+"&pwd="+URLEncoder.encode(pwd,"UTF-8");
                     HttpClient client=new DefaultHttpClient();
                     HttpGet get=new HttpGet(newPath);
+
+                    //设置参数
+                    HttpParams param = new BasicHttpParams();
+                    HttpConnectionParams.setConnectionTimeout(param, 6000);
+                    HttpConnectionParams.setSoTimeout(param, 6000);
+                    HttpConnectionParams.setTcpNoDelay(param, true);
+                    get.setParams(param);
+
                     HttpResponse response=client.execute(get);
                     //response包括响应行，响应头和响应体
                     int code=response.getStatusLine().getStatusCode();

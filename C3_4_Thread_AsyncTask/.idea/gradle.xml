@@ -3,8 +3,9 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="G:\2016软件包\Allpackages\Software\Android\2.0\android-studio\gradle\gradle-2.14.1" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
@@ -46,53 +47,11 @@
             <option value="$PROJECT_DIR$/c4_mz_13_socket3" />
             <option value="$PROJECT_DIR$/c4_mz_14_socket4_client" />
             <option value="$PROJECT_DIR$/c4_mz_14_socket4_server" />
+            <option value="$PROJECT_DIR$/c4_z_byd_network_state_listener" />
             <option value="$PROJECT_DIR$/test" />
           </set>
         </option>
-        <option name="myModules">
-          <set>
-            <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/c3_4_01_ui" />
-            <option value="$PROJECT_DIR$/c3_4_02_demo01" />
-            <option value="$PROJECT_DIR$/c3_4_03_demo02_download" />
-            <option value="$PROJECT_DIR$/c3_4_04_handler_deep" />
-            <option value="$PROJECT_DIR$/c3_4_05_demo_lizhi_diantai" />
-            <option value="$PROJECT_DIR$/c3_4_06_lizhi_post" />
-            <option value="$PROJECT_DIR$/c3_5_01_web" />
-            <option value="$PROJECT_DIR$/c3_5_02_web_listview" />
-            <option value="$PROJECT_DIR$/c3_5_03_web_imageview" />
-            <option value="$PROJECT_DIR$/c3_5_04_2_web_upload" />
-            <option value="$PROJECT_DIR$/c3_5_04_web_upload" />
-            <option value="$PROJECT_DIR$/c3_5_05_web_download" />
-            <option value="$PROJECT_DIR$/c3_5_06_xml" />
-            <option value="$PROJECT_DIR$/c3_5_07_coursetable" />
-            <option value="$PROJECT_DIR$/c4_hm_01_web" />
-            <option value="$PROJECT_DIR$/c4_hm_02_json" />
-            <option value="$PROJECT_DIR$/c4_hm_03_xml" />
-            <option value="$PROJECT_DIR$/c4_hm_04_news" />
-            <option value="$PROJECT_DIR$/c4_hm_05_mysmartimageview" />
-            <option value="$PROJECT_DIR$/c4_hm_06_logindemo" />
-            <option value="$PROJECT_DIR$/c4_hm_07_login_post" />
-            <option value="$PROJECT_DIR$/c4_hm_08_apache_get" />
-            <option value="$PROJECT_DIR$/c4_hm_08_apache_post" />
-            <option value="$PROJECT_DIR$/c4_hm_09_async_http_client" />
-            <option value="$PROJECT_DIR$/c4_hm_10_multithread_download" />
-            <option value="$PROJECT_DIR$/c4_hm_10_xutils" />
-            <option value="$PROJECT_DIR$/c4_hm_11_okhttp" />
-            <option value="$PROJECT_DIR$/c4_hm_12_volley" />
-            <option value="$PROJECT_DIR$/c4_hm_13_volley_demo" />
-            <option value="$PROJECT_DIR$/c4_hm_14_mvp" />
-            <option value="$PROJECT_DIR$/c4_hm_15_gzip" />
-            <option value="$PROJECT_DIR$/c4_hm_16_asyncTask" />
-            <option value="$PROJECT_DIR$/c4_mz_12_socket" />
-            <option value="$PROJECT_DIR$/c4_mz_12_socket2" />
-            <option value="$PROJECT_DIR$/c4_mz_13_socket3" />
-            <option value="$PROJECT_DIR$/c4_mz_14_socket4_client" />
-            <option value="$PROJECT_DIR$/c4_mz_14_socket4_server" />
-            <option value="$PROJECT_DIR$/test" />
-          </set>
-        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
       </GradleProjectSettings>
     </option>
   </component>

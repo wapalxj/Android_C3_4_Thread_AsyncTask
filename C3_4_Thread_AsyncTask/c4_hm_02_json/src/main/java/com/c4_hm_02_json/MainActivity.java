@@ -72,6 +72,7 @@ public class MainActivity extends AppCompatActivity {
 
         String path="http://wthrcdn.etouch.cn/weather_mini?city=";
         String city=null;
+
         public void search(View v){
 //        city+=et_city.getText().toString().trim();
             city="深圳";
